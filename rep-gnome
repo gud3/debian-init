@@ -1,0 +1,6 @@
+Package: *gnome* libglib2.0* *vte* *pulse* *peas* libgtk* *gjs* *gconf* *gstreamer* alacarte *brasero* cheese ekiga empathy* gdm3 gcalctool baobab *gucharmap* gvfs* hamster-applet *nautilus* seahorse* sound-juicer *totem* remmina vino gksu xdg-user-dirs-gtk dmz-cursor-theme eog epiphany* evince* evolution* libevolution* file-roller gedit* metacity *mutter* yelp* rhythmbox* banshee* system-config-printer transmission-* tomboy network-manager* libnm-* update-notifier shotwell liferea *software-properties* libunique-3.0-0 libseed-gtk3-0 libnotify* libpanel-applet-4-0 libgdata11 libcamel* libcanberra* libchamplain* libebackend* libebook* libecal* libedata* libegroupwise* libevent* gir1.2-*
+Pin: release experimental
+Pin-Priority: 500
+Package: *
+Pin: release experimental
+Pin-Priority: 150
